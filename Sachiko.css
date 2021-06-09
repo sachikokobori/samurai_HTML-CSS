@@ -1,0 +1,32 @@
+/* container */
+.wrapper{
+    width:100%;
+}
+.wrapper .container{
+    max-width:1000px;
+    margin:0px 0px;
+    padding:0px 0px;
+}
+/* content */
+.wrapper .content {
+    padding:10px;
+    text-align:center;
+}
+.wrapper .content .heading{
+    margin:0px 0px 40px 0px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+#header {
+	margin: 0;
+	padding: 0;
+}
+#wings {
+    width: 50%;
+    margin: auto;
+}
+#inst {
+    width:50%;
+    margin: auto;
+}
