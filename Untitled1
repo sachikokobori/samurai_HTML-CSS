@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>タイピングアプリ</title>
+    <style>
+        body{
+            font-size: 6em;
+            text-align: center;
+        }
+        #count{
+            margin: 0;
+            font-weight: bold;
+            color: #888;
+        }
+        #wrap{
+            margin-top: 20px;
+            padding: 20px 10px;
+            background-color: #666;
+            font-weight: bold;
+            color: #fff;
+        }
+        button{
+        color: #;788
+        }
+    </style>
+    <script>
+        </script>
+</head>
+<body>
+    <p id= "count">60</p>
+    <div id= "wrap">
+        <p id= "text"></p>
+    </div>
+    <button id="start">スタート</button>
+    
+</body>
+</html>
